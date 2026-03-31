@@ -3,6 +3,8 @@ This repository houses the data and analysis code that was used for "Systematic 
 
 **coded_studies.csv** contains the results of each study coded along the described walkability schema. 
 
+**basic_study_info.csv** contains basic info for each study such as country, participants ages, etc. 
+
 **cleaning_and_high_level.ipynb** is how the coded data was cleaned for analysis.
 
 **analysis.ipynb** contains the code to conduct the analysis. 
